@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (This single-page website showcases my artistic skills and what I’ve learned in programming. It includes my personal information and a selection of my work. I appreciate you taking the time to visit my site!)
+  This single-page website showcases my artistic skills and what I’ve learned in programming. It includes my personal information and a selection of my work. I appreciate you taking the time to visit my site!
 </div>
 
 <br />
