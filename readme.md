@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">BAKA DAN ITO</h3>
+  <h3 align="center">My Midterm Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (gehgeh)
+  Short Description. (This single-page website showcases my artistic skills and what I’ve learned in programming. It includes my personal information and a selection of my work. I appreciate you taking the time to visit my site!)
 </div>
 
 <br />
